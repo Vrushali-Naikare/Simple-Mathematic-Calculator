@@ -1,4 +1,4 @@
 "# Simple-Mathematic-Calculator" 
 <div align="center">
-  <img height="200" src="C:\Users\vrushabh naikare\Desktop\Javascript projects\Simple Calculator"  />
+   <img src="screenshots/Math calculator.jpeg" height="400" alt="Screenshot"/> 
 </div>
